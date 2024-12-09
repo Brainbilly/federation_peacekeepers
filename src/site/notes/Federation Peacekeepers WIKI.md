@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/federation-peacekeepers-wiki/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/federation-peacekeepers-wiki/","tags":["gardenEntry"]}
 ---
 
 Welcome to the WIKI

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/operation-onyx/","noteIcon":""}
+{"dg-publish":true,"permalink":"/campaigns/operation-onyx/"}
 ---
 
 Assault and capture of the Serthoulde constellation

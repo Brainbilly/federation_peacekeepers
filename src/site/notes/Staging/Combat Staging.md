@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/staging/combat-staging/"}
+{"dg-publish":true,"permalink":"/staging/combat-staging/","noteIcon":""}
 ---
 
 Alparena

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/logistics/jump-freighter/"}
+{"dg-publish":true,"permalink":"/logistics/jump-freighter/","noteIcon":""}
 ---
 
 Orvolle main manufacturing hub

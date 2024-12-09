@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/"}
+{"dg-publish":true,"permalink":"/welcome/","noteIcon":""}
 ---
 
 This is your new *vault*.
